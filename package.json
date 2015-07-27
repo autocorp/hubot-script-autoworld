@@ -1,25 +1,23 @@
 {
-  "name": "hubot-hubot-script-autoworld",
+  "name": "hubot-script-autoworld",
   "description": "things",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Andrew Khoury <drew.khoury@gmail.com>",
   "license": "MIT",
-
-  "keywords": ["hubot","hubot-scripts"],
-
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-hubot-script-autoworld.git"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-hubot-script-autoworld/issues"
   },
-
   "dependencies": {
     "coffee-script": "~1.6"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
@@ -30,10 +28,12 @@
     "matchdep": "~0.1.2",
     "grunt-contrib-watch": "~0.5.3"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
+  },
+  "homepage": "https://github.com/autocorp/hubot-script-autoworld",
+  "directories": {
+    "test": "test"
   }
 }
