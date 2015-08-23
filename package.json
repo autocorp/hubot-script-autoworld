@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-script-autoworld.git"
+    "url": "git@github.com:autocorp/hubot-script-autoworld.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-script-autoworld/issues"
+    "url": "https://github.com/autocorp/hubot-script-autoworld/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"

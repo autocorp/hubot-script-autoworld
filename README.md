@@ -8,7 +8,7 @@ See [`src/hubot-script-autoworld.coffee`](src/hubot-script-autoworld.coffee) for
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-script-autoworld --save`
+`npm install hubot-script-autoworld --save`
 
 Then add **hubot-hubot-script-autoworld** to your `external-scripts.json`:
 
